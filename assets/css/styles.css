@@ -804,7 +804,7 @@ img {
 }
 
 /* For 2K+ resolutions */
-@media (min-width: 1920px) {
+@media (min-width: 1950px) {
   .home{
     max-width: 1280px;
     height: 990px;
